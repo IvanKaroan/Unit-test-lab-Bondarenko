@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.FurnaceLoading.Model", "AV.FurnaceLoading.Model.csproj", "{16F31DE0-2D1E-4DDA-99AA-CE2C11A5B435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.FurnaceLoading.Model.UnitTests", "..\..\tests\AV.FurnaceLoading.Model.UnitTests\AV.FurnaceLoading.Model.UnitTests.csproj", "{46C77F52-6575-4BE2-B158-A5C3EA470CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F31DE0-2D1E-4DDA-99AA-CE2C11A5B435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F31DE0-2D1E-4DDA-99AA-CE2C11A5B435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F31DE0-2D1E-4DDA-99AA-CE2C11A5B435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F31DE0-2D1E-4DDA-99AA-CE2C11A5B435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C77F52-6575-4BE2-B158-A5C3EA470CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C77F52-6575-4BE2-B158-A5C3EA470CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C77F52-6575-4BE2-B158-A5C3EA470CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C77F52-6575-4BE2-B158-A5C3EA470CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C482907-8B8A-4FFF-A059-2FEDD4E89CEA}
+	EndGlobalSection
+EndGlobal
